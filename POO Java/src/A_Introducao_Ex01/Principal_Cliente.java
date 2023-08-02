@@ -8,8 +8,8 @@ public class Principal_Cliente {
        
         System.out.println("==== Chamando os métodos do objeto ====\n");
         
-        cliente.mostrar("Alexandre Augusto", "12.345.678-99");
-        cliente.mostrar("dos Santos Feltrin", "99.999.999-99");
+        cliente.mostrar("Alexandre", "12.345.678-99");
+        cliente.mostrar("Augusto", "99.999.999-99");
         cliente.mostrarNome("Alexandre");
         cliente.mostrarNome("Augusto");
         
