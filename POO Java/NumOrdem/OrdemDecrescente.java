@@ -3,7 +3,7 @@ package NumOrdem;
 public class OrdemDecrescente {
     private int n1, n2, n3, n4;
     
-    private String ordenar(int n1, int n2, int n3, int n4){
+    public String ordenar(int n1, int n2, int n3, int n4){
         this.n1 = n1;
         this.n2 = n2;
         this.n3 = n3;
