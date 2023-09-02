@@ -6,9 +6,10 @@ public class NomeScanner {
 
         System.out.print("Digite seu nome: ");
         String nome = scanner.nextLine();
-
+        
         System.out.println("Olá, " + nome + "! Bem-vindo(a)!");
-
+        System.out.println("Esse algoritmo te retorna seu nome!");
+            
         scanner.close();
     }
 }
