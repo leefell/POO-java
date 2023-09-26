@@ -22,8 +22,8 @@ public class CartaVIEW {
 }
 
 /*
-CTR = 
-DAO =
+DTO = Setters e Getters
+DAO = ...
 CTR = Controle
 VIEW = Interage com o usuário
 */
