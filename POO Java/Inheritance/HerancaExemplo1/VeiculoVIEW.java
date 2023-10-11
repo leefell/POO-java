@@ -26,6 +26,7 @@ public class VeiculoVIEW {
         JOptionPane.showMessageDialog(null, motoCTR.imprimirDadosMoto(motoDTO));
         
         //verificar a funcionalidade na proxima aula
+        //verificado, erros corrigidos 10/10/23
         
     }
 }
