@@ -9,4 +9,4 @@ Esse repositório armazena códigos e exemplos na linguagem Java.
 - [Encapsulamento](https://github.com/leefell/POO-java/tree/main/POO%20Java/Encapsulation)
 - [Herança](https://github.com/leefell/POO-java/tree/main/POO%20Java/Inheritance)
 - [Polimorfismo](https://github.com/leefell/POO-java/tree/main/POO%20Java/Polymorphism)
-- [Interface]
+- [Interface](https://github.com/leefell/POO-java/tree/main/POO%20Java/Interface/)
