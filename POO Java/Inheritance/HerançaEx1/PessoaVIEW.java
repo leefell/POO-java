@@ -20,6 +20,7 @@ public class PessoaVIEW {
             funcionarioDTO.setFuncao(JOptionPane.showInputDialog("Funcao: "));
             
             JOptionPane.showMessageDialog(null, funcionarioCTR.mostrarDadosFuncionario(funcionarioDTO));
+            JOptionPane.showMessageDialog(null, funcionarioCTR.aponsetadoria(funcionarioDTO));
             
             AlunoDTO alunoDTO = new AlunoDTO();
             AlunoCTR alunoCTR = new AlunoCTR();
