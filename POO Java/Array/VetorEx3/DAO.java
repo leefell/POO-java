@@ -1,8 +1,7 @@
 package VetorEx3;
 
 public class DAO {
-    private int[] n1;
-    private int[] n2;
+    private int n1[], n2[];
     private double[] n3 = new double[5];
     private String opc;
     private String mensagem = "";
